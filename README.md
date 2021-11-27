@@ -1,13 +1,8 @@
-#### 👋 Hi, 
-###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Suvajit Patra,
-<p>
-  <em>
-    <b>Computer Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=30 height=25> 
-  </em>
- </p>
+###  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> Hi, I am Suvajit Patra
+
+<b>Computer Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40> <b>at RKMVERI, Belur</b> <img src="https://srkv.org/wp-content/uploads/2016/10/emblem_ramakrishna_order-257x300.png" width=30>
+
 <img align="right" alt="Coder GIF" height=250 width=400 src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
-<em>
-</em>
 
 #### <img src="https://fuertedevelopers.in/wp-content/uploads/2020/08/aboutus.gif" width=100> Languages:
 <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /></a>
@@ -35,7 +30,7 @@
 <a target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 <a target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></a>
 
-#### <img src="https://1.bp.blogspot.com/-5ETTrazTr6k/WbjuMV813SI/AAAAAAAAAHE/wz6gJdVudcgFKjjMCwoWu6F-YS22UuabgCLcBGAs/s1600/FFFFF.gif" width=100> Systems: 
+#### <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0040.gif" width=100> Systems: 
 <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a target="_blank"><img alt="Hyperledger" src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /></a>
 <a target="_blank"><img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white" /></a>
