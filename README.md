@@ -5,7 +5,7 @@
     <b>Computer Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> 
   </em>
  </p>
-<img align="right" alt="Coder GIF" height=250 width=450 src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
+<img align="right" alt="Coder GIF" height=250 width=400 src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
 <em>
 </em>
 
