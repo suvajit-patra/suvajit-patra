@@ -12,8 +12,8 @@
 ### 📫 You can mail me on this email suvajit790@gmail.com
 
 #### Languages:
-<a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" /></a>
-<a target="_blank"><img alt="C" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white" /></a>
+<a target="_blank"><img alt="C" src="https://img.shields.io/badge/#A8B9CC?style=for-the-badge&logo=C&logoColor=white" /></a>
+<a target="_blank"><img alt="C" src="https://img.shields.io/badge/#00599C?style=for-the-badge&logo=C++&logoColor=white" /></a>
 <a target="_blank"><img alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a target="_blank"><img alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
