@@ -24,7 +24,7 @@
 <a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
 <a target="_blank"><img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-5C2F22?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
 
-#### <img src="https://www.bmtraders.com/images/Database/Database-4.gif" width=80> Databases:
+#### <img src="https://www.bmtraders.com/images/Database/Database-4.gif" width=100> Databases:
 <a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a target="_blank"><img alt="SqLite" src="https://img.shields.io/badge/SqLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
 <a target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
