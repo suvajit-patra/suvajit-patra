@@ -11,6 +11,7 @@
 <a target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /></a>
+<a target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
 
 ### <img src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3a%2f%2fperfonec.com%2fwp-content%2fuploads%2f2019%2f03%2fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3d&risl=&pid=ImgRaw" width=100> Packages & Frameworks:
 <a target="_blank"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /></a>
