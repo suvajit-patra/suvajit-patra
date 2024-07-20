@@ -45,7 +45,7 @@
   <a href="https://steamcommunity.com/id/s_p" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
 
-![Git stats](https://github-readme-stats.vercel.app/api?username=suvajit790&show_icons=true&hide=issues)
+![Git stats](https://github-readme-stats.vercel.app/api?username=suvajit-patra&show_icons=true&hide=issues)
 
 <!---
 suvajit790/suvajit790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
