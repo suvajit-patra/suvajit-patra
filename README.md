@@ -40,12 +40,19 @@
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> Social Platforms
 
   <a href="https://www.linkedin.com/in/suvajit-patra-28852a190/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="suvajit790@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="suvajit.patra.cs20@gm.rkmvu.ac.in" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://mobile.twitter.com/suvajit790" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/twitter-777BB4?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/s_p" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
 
 
-![Git stats](https://github-readme-stats.vercel.app/api?username=suvajit-patra&show_icons=true&hide=issues)
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/suvajit-patra/github-readme-stats"><img alt="Suvajit Patra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suvajit-patra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/suvajit-patra/github-readme-stats"><img alt="Suvajit Patra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvajit-patra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 <!---
 suvajit790/suvajit790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
