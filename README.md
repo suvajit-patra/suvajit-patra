@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=400 src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
 
-### <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/HEAD/src/programming-languages.gif" width=100> Languages:
+### <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" width=100> Languages:
 <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 <a target="_blank"><img alt="C#" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" /></a>
