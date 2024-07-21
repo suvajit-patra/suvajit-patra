@@ -2,7 +2,7 @@
 
 <b>Computer Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=40> <b>at RKMVERI, Belur</b> <img src="https://srkv.org/wp-content/uploads/2016/10/emblem_ramakrishna_order-257x300.png" width=30>
 
-<img align="right" alt="Coder GIF" height=250 width=400 src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" />
+<img align="right" alt="Coder GIF" height=450 width=450 src="https://user-images.githubusercontent.com/47064496/132361110-7f96ad46-6c77-4e00-b420-c3f52e7c22c6.gif" />
 
 ### <img src="https://gomycode.com/eg/wp-content/uploads/sites/28/2023/11/giphy.gif" width=100> Languages:
 <a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /></a>
@@ -12,6 +12,12 @@
 <a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /></a>
 <a target="_blank"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
+
+### <img src="https://www.bmtraders.com/images/Database/Database-4.gif" width=100> Databases:
+<a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a target="_blank"><img alt="SqLite" src="https://img.shields.io/badge/SqLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+<a target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+<a target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></a>
 
 ### <img src="https://global.discourse-cdn.com/business6/uploads/codeorgforum/original/2X/5/5850a08813648555f34c29bea7b6d1de15f01655.gif" width=100> Packages & Frameworks:
 <a target="_blank"><img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" /></a>
@@ -25,12 +31,6 @@
 <a target="_blank"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
 <a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
 <a target="_blank"><img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-5C2F22?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>
-
-### <img src="https://www.bmtraders.com/images/Database/Database-4.gif" width=100> Databases:
-<a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a target="_blank"><img alt="SqLite" src="https://img.shields.io/badge/SqLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-<a target="_blank"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-<a target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></a>
 
 ### <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0040.gif" width=100> Systems: 
 <a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
